@@ -1,0 +1,7 @@
+*cache*
+*.lck
+*bak*
+*back*
+*#
+*.kicad_pcb
+*.kicad_prl
